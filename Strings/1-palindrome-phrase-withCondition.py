@@ -1,4 +1,3 @@
-
 def cleanUpData(s,newStr):
         for character in s:
              if(character.isalnum()):
