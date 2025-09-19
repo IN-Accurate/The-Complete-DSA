@@ -8,6 +8,6 @@ def main():
                  ans+=s[i]
                  prev=s[i]
             i +=1
-    print("New string: ",ans)
+    print("New string after removing duplicate chars: ",ans)
 if __name__ == '__main__':
     main()
